@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Client.exe" version="1.0.0.1" publicKeyToken="84d4096dac512d6e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Client" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Client.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC 매니페스트 옵션
+             Windows 사용자 계정 컨트롤 수준을 변경하려면 
+             requestedExecutionLevel 노드를 다음 중 하나로 바꿉니다.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            requestedExecutionLevel 요소를 지정하면 파일 및 레지스트리 가상화를 사용하지 않습니다. 
+            이전 버전과의 호환성을 위해 응용 프로그램에 가상화가 필요한 경우
+            이 요소를 제거합니다.
+-->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Client.exe" size="19904">
+      <assemblyIdentity name="Client" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>tl8vReXrdGzu1GVia4g8DGtKDdWd+gfoVTi25UQywq0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Client.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- 이 응용 프로그램이 테스트되고 함께 작동하도록 설계된 Windows 버전
+           목록입니다. 적절한 요소의 주석 처리를 제거하면 Windows에서 
+           호환 가능성이 가장 높은 환경을 자동으로 선택합니다. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=L0G3X\YEGU Kwon" issuerKeyHash="89d6b4db63a7f3b630d5fb7c5dc2a638a3142e26" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>qU/dp6T9awCRGCKGoA/C+E8FG0OLvEcAWjLZZ7m5qds=</DigestValue></Reference></SignedInfo><SignatureValue>bP1W9a/vtZlprOIYl+BZ5/TuEHsXcn8WDZON44BB5apDEWxcPBlEBaqLsgWZx7xzTZp95/YA4WsN9KY6Eh7y+oaeu2meDyPtLdluAckd+DyBL6VcXgx4oelyn5b6CiusUKRNCFIDDgsKT8QG55nY+fJrwvp2yu1sJWTSSGiR7nM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pcgujrR0iC9skq2t9gPP09uDk40S2Rqtkw7m9ttTIJ9HDpdZwdV55CUkSoPitu/26VOQp5nUwjBcXlv5/QA7XRlA2/8TNWqqEn3bV9rxa2Dc68H+a6DHr484VvpcL/dlR23MA+90mczcb6rC5NqE4wpkrJgQL6QUm9ro6peuPMs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="dba9b9b967d9325a0047bc8b431b054ff8c20fa086221891006bfda4a7dd4fa9" Description="" Url=""><as:assemblyIdentity name="Client.exe" version="1.0.0.1" publicKeyToken="84d4096dac512d6e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=L0G3X\YEGU Kwon</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>yTYSB4t8Nhc1iGsXtEOo5QGAl36160XSDCVuezBpj2Y=</DigestValue></Reference></SignedInfo><SignatureValue>fHbCKIW1Qzer+fHHY3vkzJLKRID+yAbEWFmHIKEJqnrlBdBtxlhbGqujniBhwsn2JqXHqEm8bx7XeQFIh6W+MDTxx6Fe3DVnMJoM5l30sTHIerSs13K9k+tYCCwDcErrF6jbBbFN4kKUCQx0aQCk8lANU2hM08KFeApnq+lxEwo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pcgujrR0iC9skq2t9gPP09uDk40S2Rqtkw7m9ttTIJ9HDpdZwdV55CUkSoPitu/26VOQp5nUwjBcXlv5/QA7XRlA2/8TNWqqEn3bV9rxa2Dc68H+a6DHr484VvpcL/dlR23MA+90mczcb6rC5NqE4wpkrJgQL6QUm9ro6peuPMs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQXZHHSOJ6KbVGVE4aO97FKzANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4ATAAwAEcAMwBYAFwAWQBFAEcAVQAgAEsAdwBvAG4wHhcNMTYxMDI2MDgyMDIzWhcNMTcxMDI2MTQyMDIzWjApMScwJQYDVQQDHh4ATAAwAEcAMwBYAFwAWQBFAEcAVQAgAEsAdwBvAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKXILo60dIgvbJKtrfYDz9Pbg5ONEtkarZMO5vbbUyCfRw6XWcHVeeQlJEqD4rbv9ulTkKeZ1MIwXF5b+f0AO10ZQNv/EzVqqhJ921fa8Wtg3OvB/mugx6+POFb6XC/3ZUdtzAPvdJnM3G+qwuTahOMKZKyYEC+kFJva6OqXrjzLAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAZQ1j7WH5TFwfF/OJB247PztXFyQdoho0kLjp4b+BLO1aG10bLoG1zzpu4tlWGDIa5kHxEbHy7mCiN2IxzhprMc86Zu6VxlklzGvDm0WgZaoCo9pbeQ/l5z0sQnrI+1S6ohMx6q3pSTWs1+9E2/TTIgXWLS1cUeo3SqK9rZBaMSo=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

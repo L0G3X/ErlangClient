@@ -1,0 +1,69 @@
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Debug\Client_1.0.csproj.GenerateResource.Cache
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.config
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\bin\Debug\Client.exe
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\bin\Debug\Client.pdb
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Debug\Client_MarkupCompile.cache
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Debug\Client_MarkupCompile.lref
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Debug\Client.g.resources
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Debug\Client.exe
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Debug\Client.pdb
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.CodeAnalysisLog.xml
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.lastcodeanalysissucceeded
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.config
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.manifest
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\bin\Debug\Client.application
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\bin\Debug\Client.exe
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\bin\Debug\Client.pdb
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.CodeAnalysisLog.xml
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.lastcodeanalysissucceeded
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Chat.g.cs
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Client_MarkupCompile.cache
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Client_MarkupCompile.lref
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Chat.baml
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Client.g.resources
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Client_1.0.csproj.GenerateResource.Cache
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Client.TrustInfo.xml
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Client.exe.manifest
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Client.application
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Client.exe
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Client.pdb
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\Document\Private Projects\WpfApplication1\WpfApplication1\obj\Debug\Client_1.0.csprojResolveAssemblyReference.cache
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Client_1.0.csprojResolveAssemblyReference.cache
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Client_MarkupCompile.cache
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Client_MarkupCompile.lref
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Client.exe
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Client.pdb
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.config
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.manifest
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\bin\Debug\Client.application
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\bin\Debug\Client.exe
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\bin\Debug\Client.pdb
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.CodeAnalysisLog.xml
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.lastcodeanalysissucceeded
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Client.g.resources
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Client_1.0.csproj.GenerateResource.Cache
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Client.TrustInfo.xml
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Client.exe.manifest
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Client.application
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Windows\MainWindow.g.cs
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Windows\Window1.g.cs
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Windows\MainWindow.baml
+D:\Document\_CODE\WPF\WpfApplication1\WpfApplication1\obj\Debug\Windows\Window1.baml

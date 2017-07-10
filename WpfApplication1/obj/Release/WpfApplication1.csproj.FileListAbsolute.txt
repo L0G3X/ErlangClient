@@ -1,0 +1,16 @@
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\Window1.g.cs
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\Window1.baml
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+D:\Document\개인 프로젝트\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
